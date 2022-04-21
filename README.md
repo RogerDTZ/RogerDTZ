@@ -1,4 +1,6 @@
-![[RogerDTZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerdtz)](https://github.com/anuraghazra/github-readme-stats)
+![RogerDTZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerdtz&&show_icons=true&&count_private=true&&&hide=issues&&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdtz&&hide=html,python&layout=compact)
 
 <!--### Hi there 👋 -->
 
