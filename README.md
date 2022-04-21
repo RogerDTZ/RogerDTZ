@@ -1,5 +1,5 @@
-![RogerDTZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerdtz&&show_icons=true&&count_private=true&&&hide=issues&&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdtz&&hide=html,python&layout=compact)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerdtz&&show_icons=true&&count_private=true&&&hide=issues&&theme=radical&hide_border=true" alt="RogerDTZ's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdtz&&hide=html,python&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 - 🔭 I’m currently working on System & Security ...
 
