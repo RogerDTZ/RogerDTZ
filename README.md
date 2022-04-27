@@ -1,4 +1,4 @@
-| <a href="https://github.com/RogerDTZ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerdtz&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true" alt="RogerDTZ's GitHub stats" /></a> | <a href="https://github.com/RogerDTZ"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdtz&hide=html,python,js&layout=compact&hide_border=true&theme=buefy" /></a> |
+| <a href="https://github.com/RogerDTZ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rogerdtz&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true" alt="RogerDTZ's GitHub stats" /></a> | <a href="https://github.com/RogerDTZ"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdtz&hide=html,python,javascript&layout=compact&hide_border=true&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 
